@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robos/static/css/main.86dec8f6.css",
+    "main.js": "/robos/static/js/main.0a044e86.js",
+    "static/js/787.e70f6d73.chunk.js": "/robos/static/js/787.e70f6d73.chunk.js",
+    "static/media/SEGA.woff": "/robos/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robos/index.html",
+    "main.86dec8f6.css.map": "/robos/static/css/main.86dec8f6.css.map",
+    "main.0a044e86.js.map": "/robos/static/js/main.0a044e86.js.map",
+    "787.e70f6d73.chunk.js.map": "/robos/static/js/787.e70f6d73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86dec8f6.css",
+    "static/js/main.0a044e86.js"
+  ]
+}
